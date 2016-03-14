@@ -34,5 +34,5 @@
   4.在xx.github.io创建文件CNAME，该文件没有后缀名,文件内容为域名 ：zz.site。
 </p>
 <p>
-  5.验证  ping xx.github.io 和ping  zz.site， 是否为同一个ip，并正常返回
+  5.在
 </p>
